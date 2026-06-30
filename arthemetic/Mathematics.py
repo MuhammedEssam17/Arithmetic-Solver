@@ -5,7 +5,7 @@ from Main_dirrevative import direvative
 from Main_integrate import solve_integrate
 
 st.set_page_config(page_title="Math solver", page_icon="🌟", layout="centered")
-
+#This to let the user choose the mathemaics operator with GUI
 section = st.sidebar.selectbox(
     "Select a section", ["Equation", "Derivative", "Integration"]
 )
