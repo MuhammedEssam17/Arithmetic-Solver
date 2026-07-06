@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29694823/README.md)
 # Advanced Math Solver
 
 ### This project is an advanced math solver that can handle a variety of mathematical problems, it includes Equation solving, Differentiation, Integration, the solver is built using Python and leverages libraries such as Sympy and other mathematical libraries to provide accurate and efficient solutions, and visualization capabilities.
